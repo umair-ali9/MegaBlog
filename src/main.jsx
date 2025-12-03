@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import React, { StrictMode } from 'react'
 import App from './App.jsx'
 import './index.css'
